@@ -19,4 +19,5 @@ last addition
 %%%
 
 Git. Training.
-training v2
+training v2 
+ALL rights reserved
