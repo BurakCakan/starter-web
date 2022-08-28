@@ -16,3 +16,5 @@ test test test
 last addition
 
 %%%
+
+Git. Training.
