@@ -18,3 +18,4 @@ last addition
 %%%
 
 Git. Training.
+training v2
